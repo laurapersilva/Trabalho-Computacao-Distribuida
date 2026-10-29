@@ -133,10 +133,9 @@ Referência: heurística do vizinho mais próximo = **8406,7**. Menor é melhor.
 
 | Integrante | Responsabilidade principal |
 |------------|----------------------------|
-| Aluno 1 | **Arquitetura e camada RPC:** protocolo de mensagens, `rpc.py`, `Node.call/register`, timeouts e tratamento de falhas de comunicação |
-| Aluno 2 | **Eleição de líder (Bully):** `start_election`, `become_leader`, heartbeat, detecção de falha do coordenador |
-| Aluno 3 | **Relógios lógicos (Lamport):** `lamport.py`, integração em todas as mensagens, formato de logs e verificação de causalidade |
-| Aluno 4 | **Algoritmo genético:** TSP, OX, mutação, seleção, ilhas e política de migração em anel |
-| Aluno 5 | **Experimentos e entrega:** `run_local.py`, `benchmark.py`, injeção de falhas, README e relatório |
+| Arthur Signorini | **Arquitetura e camada RPC:** protocolo de mensagens, `rpc.py`, `Node.call/register`, timeouts e tratamento de falhas de comunicação |
+| Cauã Costa | **Eleição de líder (Bully):** `start_election`, `become_leader`, heartbeat, detecção de falha do coordenador |
+| Laura Persilva | **Relógios lógicos (Lamport):** `lamport.py`, integração em todas as mensagens, formato de logs e verificação de causalidade |
+| Otávio Monteiro | **Algoritmo genético:** TSP, OX, mutação, seleção, ilhas e política de migração em anel |
+| Andriel Mark | **Experimentos e entrega:** `run_local.py`, `benchmark.py`, injeção de falhas, README e relatório |
 
-(Substitua "Aluno N" pelos nomes do grupo.)
